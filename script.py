@@ -15,3 +15,9 @@ if yn == "y":
 else:
     print("Dommage, c'est très pratique")
 
+print("Tu déteste Théotim ? (Répondez par [y] ou par [n]")
+yn1 = input()
+if yn =="y":
+    print("Ca tombe bien c'est un connard")
+else:
+    print("Je le hais personnellement")
