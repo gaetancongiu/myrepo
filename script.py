@@ -17,7 +17,14 @@ else:
 
 print("Tu déteste Théotim ? (Répondez par [y] ou par [n]")
 yn1 = input()
-if yn =="y":
+if yn1 =="y":
     print("Ca tombe bien c'est un connard")
 else:
     print("Je le hais personnellement")
+
+print("Tu aimes les pâtes ? (Répondez par [y] ou par [n]")
+yn2 = input()
+if yn2 =="y":
+    print("T'es italien alors")
+else:
+    print("Trop de pâtes tue les pates")
